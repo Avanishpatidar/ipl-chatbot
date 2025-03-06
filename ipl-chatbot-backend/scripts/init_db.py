@@ -9,7 +9,6 @@ def init_db():
     matches_df = pd.read_csv("matches.csv")
     matches_df.to_sql("matches", engine, if_exists="replace", index=False)
     
-   
     balls_df = pd.read_csv("balls.csv")
     balls_df.to_sql("balls", engine, if_exists="replace", index=False)
     
