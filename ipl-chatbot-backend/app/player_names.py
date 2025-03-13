@@ -1213,6 +1213,7 @@ PLAYER_NAME_MAPPING = {
     # RR Powar
     "ramesh": "RR Powar", "powar": "RR Powar", "ramesh powar": "RR Powar",
     # RR Raje
+    
     "rohit": "RR Raje", "raje": "RR Raje", "rohit raje": "RR Raje",
     # RR Rossouw
     "rilee": "RR Rossouw", "rossouw": "RR Rossouw", "rilee rossouw": "RR Rossouw",
@@ -1604,4 +1605,17 @@ PLAYER_NAME_MAPPING = {
     "yuvraj": "Yuvraj Singh", "singh": "Yuvraj Singh", "yuvraj singh": "Yuvraj Singh",
     # Z Khan
     "zaheer": "Z Khan", "khan": "Z Khan", "zaheer khan": "Z Khan",
+}
+
+TEAM_NAME_MAPPING = {
+    "csk": "Chennai Super Kings",
+    "rcb": "Royal Challengers Bangalore",
+    "mi": "Mumbai Indians",
+    "kkr": "Kolkata Knight Riders",
+    "srh": "Sunrisers Hyderabad",
+    "dc": "Delhi Capitals",
+    "pbks": "Punjab Kings",
+    "rr": "Rajasthan Royals",
+    "gl": "Gujarat Lions",
+
 }
